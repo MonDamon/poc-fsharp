@@ -1,0 +1,3 @@
+C:\GITHUB-Mondamon\poc-fsharp\PocFsharp\PocFsharp\obj\Debug\netcoreapp2.2\PocFsharp.fsproj.CoreCompileInputs.cache
+C:\GITHUB-Mondamon\poc-fsharp\PocFsharp\PocFsharp\obj\Debug\netcoreapp2.2\PocFsharp.AssemblyInfoInputs.cache
+C:\GITHUB-Mondamon\poc-fsharp\PocFsharp\PocFsharp\obj\Debug\netcoreapp2.2\PocFsharp.AssemblyInfo.fs
